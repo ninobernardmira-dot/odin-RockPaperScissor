@@ -1,2 +1,16 @@
-# odin-RockPaperScissor
-# Rock Paper Scissors  A simple Rock Paper Scissors game built with JavaScript and played entirely in the browser console. You play against the computer for 5 rounds, and the winner is announced at the end.  ## How to Play 1. Open `index.html` in your browser. 2. Open the developer console (F12). 3. Enter "rock", "paper", or "scissors" when prompted for each round. 4. See the round results, scores, and final winner in the console.  ## Concepts Practiced - Functions and parameters - Conditionals and loops - Random number generation with `Math.random()` - User input with `prompt()` - Logging output with `console.log()`
+# Rock Paper Scissors
+
+A simple Rock Paper Scissors game built with JavaScript and played entirely in the browser console. You play against the computer for 5 rounds, and the winner is announced at the end.
+
+## How to Play
+1. Open `index.html` in your browser.
+2. Open the developer console (F12).
+3. Enter "rock", "paper", or "scissors" when prompted for each round.
+4. See the round results, scores, and final winner in the console.
+
+## Concepts Practiced
+- Functions and parameters
+- Conditionals and loops
+- Random number generation with `Math.random()`
+- User input with `prompt()`
+- Logging output with `console.log()`
